@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "0f378c828827efbdf51d4b85",
+  "owner": "kpdzvvfm",
+  "repo": "page-1e341b1ac985c84146199d4e",
+  "title": "Blinkload",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1e341b1ac985c84146199d4e",
+      "a": "Blinkload",
+      "b": "小火箭机场推荐",
+      "entity": "Blinkload",
+      "brand": "Blinkload",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "845ccd258702d98ffc248e7cc92d7f7836b2bbd4b41b97bb377f118c22aa4f05",
+      "content": {
+        "primary_entity": "Blinkload",
+        "keyword1": "Blinkload",
+        "keyword2": "小火箭机场推荐",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型挑选客户端，再通过订阅链接完成配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量需求选择套餐，按年付更划算。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更省心",
+          "AI_DESCRIPTION": "，Blinkload 提供基础版、旗舰版与团队版三档方案，月流量从 100GB 到 1000GB，在线设备数从 3 台到 20 台，可依使用场景灵活选择。旗舰版 35 元每月，含 IPLC 专线游戏加速优化与全节点原生流媒体解锁；团队版 85 元每月，提供 VIP 专属高带宽节点。年付方案分别为 150 元、350 元和 850 元，适合长期稳定使用的用户。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，三方面快速了解 Blinkload。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台设备，旗舰版 300GB/5 台设备，团队版 1000GB/20 台设备。",
+          "AI_FEATURE_TEXT_2": "月付或年付两种周期，年付基础版 150 元、旗舰版 350 元、团队版 850 元。",
+          "AI_FEATURE_TEXT_3": "旗舰版支持 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "订阅周期",
+          "AI_FEATURE_TITLE_3": "线路与场景",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "Blinkload 面向需要稳定海外加速的用户，提供基础版、旗舰版和团队版三档套餐，覆盖个人单设备到多设备团队场景。按设备数量与月流量需求选择对应方案，再参考客户端文档完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "年付更省费用",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与专线体验，团队版满足多人多设备需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "依设备数量与月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的在线设备数与流量额度，判断是否满足日常使用。",
+          "AI_STEP_TEXT_3": "按对应客户端的订阅配置文档导入订阅链接，即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "灵活套餐，稳定加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Blinkload 套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "支持在订阅周期内按规则升级，补差价后即可切换至更高档套餐，具体以购买页说明为准。",
+          "AI_FAQ_QUESTION_2": "一台设备可以登录多个客户端吗？",
+          "AI_FAQ_ANSWER_2": "同一账号在套餐允许的设备数量内可登录多个客户端，超出限制时可能影响连接。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付方案价格更低，基础版 ¥150、旗舰版 ¥350、团队版 ¥850，对应月付分别为 ¥15、¥35、¥85。",
+          "AI_FAQ_QUESTION_4": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_4": "当月流量达上限后连接速度可能受限，可等待下月重置或升级至更高流量套餐。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备与 1000GB 月流量，适合小型团队、多终端协作或高流量日常使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "102867d1bf38ad4b899bbc5b137883b9f7db9b1420b2067588c7b4828411fa24",
+    "sitemap.xml": "1e75c3a56fcdb342c9abbcd32dadb882a10b9af6183276c36973f064096db586",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "601ebd78050d1c7f62c797004599a6b37fb202fe1cdbab1990a46538834c6ad5"
+}
